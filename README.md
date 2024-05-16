@@ -1,4 +1,9 @@
 # Activité Pratique N°5 - Web services SOAP
+## Supervisé par :
+* **Pr Abdelmajid Bousselham**
+## Réalise Par : 
+* **Oussama ElHachimi** - [osmel1](https://github.com/osmel1)
+  
 Au cours de ce tp on va développer, déployer et tester un service web SOAP utilisant JAX-WS pour la gestion de comptes bancaires. 
 Les principales fonctionnalités du service incluent la conversion de montants en euros vers des dirhams (DH), la consultation de comptes individuels, et la consultation d'une liste de comptes.
 
@@ -43,6 +48,8 @@ public class ServiceJWS {
 ![Capture](https://github.com/osmel1/soap-ws/assets/110778429/7339995a-026b-4967-bf6c-ca7950329105)
 ![8](https://github.com/osmel1/soap-ws/assets/110778429/86078485-5505-4726-823a-c3814b2818cb)
 <br>
-- Appelez une methode de webservice `conversionEuroToDh`
+- Appelez une methode de webservice  `conversionEuroToDh`
+
+
 ![image](https://github.com/osmel1/soap-ws/assets/110778429/d356af0b-d4b9-4928-9d2e-885e41f53abf)
 
