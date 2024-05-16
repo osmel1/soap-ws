@@ -42,4 +42,7 @@ public class ServiceJWS {
 - Generer le proxy on utilisant un plugin dans intellij :
 ![Capture](https://github.com/osmel1/soap-ws/assets/110778429/7339995a-026b-4967-bf6c-ca7950329105)
 ![8](https://github.com/osmel1/soap-ws/assets/110778429/86078485-5505-4726-823a-c3814b2818cb)
+<br>
+- Appelez une methode de webservice `conversionEuroToDh`
+![image](https://github.com/osmel1/soap-ws/assets/110778429/d356af0b-d4b9-4928-9d2e-885e41f53abf)
 
