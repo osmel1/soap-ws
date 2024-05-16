@@ -1,6 +1,6 @@
 # Activité Pratique N°5 - Web services SOAP
 ## Supervisé par :
-* **Pr Abdelmajid Bousselham**
+* **Pr Mohamed YOUSSFI**
 ## Réalise Par : 
 * **Oussama ElHachimi** - [osmel1](https://github.com/osmel1)
   
